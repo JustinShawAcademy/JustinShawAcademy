@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 I am a data science student that loves working with data! 
 
+<p align="center">
+  <img src="justin-gif.gif" alt="Hi there! I'm Justin" width="700" />
+</p>
