@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **JustinShawAcademy/JustinShawAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data science student that loves working with data! 
-
 <p align="center">
-  <img src="justin-gif.gif" alt="Hi there! I'm Justin" width="700" />
+  <img src="justin-gif.gif" alt="Hi there! I'm Justin" width="900" />
 </p>
+
