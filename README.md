@@ -1,15 +1,11 @@
-
-
 <!--
-inspo: https://github.com/Raymo111
-https://github.com/Sandeepa-git/Sandeepa-git/tree/main
+credit: thank you Vaxry for letting me use these beautiful gifs for my readme. I am inspired to make my own ones when I have the time! :)
 -->
+*Last updated page: `2026-01-30`*
+![Welcome](https://vaxerski.xyz/github/TopGif.gif) 
 
-<p align="center">
-  <img src="justin-gif.gif" alt="Hi there! I'm Justin" width="900" />
-</p>
-
-*Last updated page: `2025-11-17`*
-
-## About me
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 - Data Science student at York University
+
+![Divider](https://vaxerski.xyz/github/repos1.gif)
+
