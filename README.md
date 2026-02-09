@@ -1,11 +1,20 @@
 <!--
-credit: thank you Vaxry for letting me use these beautiful gifs for my readme. I am inspired to make my own ones when I have the time! :)
+inspo: https://github.com/Raymo111
+https://github.com/Sandeepa-git/Sandeepa-git/tree/main
 -->
-*Last updated page: `2026-01-30`*
-![Welcome](https://vaxerski.xyz/github/TopGif.gif) 
 
-![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-- Data Science student at York University
+<p align="center">
+  <img src="justin-gif.gif" alt="Hi there! I'm Justin" width="900" />
+</p>
 
-![Divider](https://vaxerski.xyz/github/repos1.gif)
+*Last updated page: `2026-02-09`*
 
+## About me
+- Data Science student at York University 🍎
+- I live in Toronto, Canada 🇨🇦
+- I love full-stack engineering 🤖
+
+## Contact me
+Message me about anything! :)
+- Linkedin: [here](https://www.linkedin.com/in/justinshaw-tech/)
+- Email: Justinshawcareer@gmail.com
