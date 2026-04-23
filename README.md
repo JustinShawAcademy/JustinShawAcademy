@@ -10,11 +10,9 @@ https://github.com/Sandeepa-git/Sandeepa-git/tree/main
 *Last updated page: `2026-02-09`*
 
 ## About me
-- Data Science student at York University 🍎
 - I live in Toronto, Canada 🇨🇦
 - I love full-stack engineering 🤖
 
 ## Contact me
 Message me about anything! :)
-- Linkedin: [here](https://www.linkedin.com/in/justinshaw-tech/)
 - Email: Justinshawcareer@gmail.com
